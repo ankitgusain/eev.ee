@@ -6,7 +6,7 @@ The bulk of it consists of Markdown-formatted posts in `content/`, but perhaps y
 
 It's powered by [Pelican][], a Python static blog system.
 
-Feel free to send pull requests for typos or factual errors or what you have.
+Feel free to send pull requests for typos or factual errors or whatever you have.
 
 
-[Pelican]: http://docs.getpelican.com/
+#  [Pelican]: http://docs.getpelican.com/
